@@ -163,8 +163,8 @@ GPG 可能显示类似 `This key is not certified with a trusted signature` 的�
 - 你已经将该公钥导入到本机 GPG。
 
 ```file
-v2rayN-windows-64.zip
-v2rayN-windows-64.zip.sig
+XXX
+XXX.sig
 ```
 
 请确认发布文件和对应的 `.sig` 文件位于同一个目录。
@@ -347,8 +347,8 @@ Before verifying the Release file, make sure that the following conditions are m
 - You have imported the public key into your local GPG keyring.
 
 ```file
-v2rayN-windows-64.zip
-v2rayN-windows-64.zip.sig
+XXX
+XXX.sig
 ```
 
 Make sure the release file and its `.sig` file are in the same directory.
