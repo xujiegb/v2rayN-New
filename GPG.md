@@ -373,6 +373,6 @@ If GPG reports a bad signature, missing signature, unexpected key, or a fingerpr
 
 <div align="right">
 
-[⬆ 返回顶部 / Back to top](#top) · [跳转到中文](#中文)
+[⬆ Back to top / 返回顶部](#top) · [跳转到中文](#中文)
 
 </div>
