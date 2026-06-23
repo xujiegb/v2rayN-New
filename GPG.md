@@ -189,7 +189,7 @@ gpg --verify v2rayN-windows-64.zip.sig v2rayN-windows-64.zip
 
 <div align="right">
 
-[⬆ 返回顶部 / Back to top](#top) | [Jump to English](#english)
+[▲ 返回顶部 / Back to top](#top) | [Jump to English](#english)
 
 </div>
 
@@ -373,6 +373,6 @@ If GPG reports a bad signature, missing signature, unexpected key, or a fingerpr
 
 <div align="right">
 
-[⬆ Back to top / 返回顶部](#top) | [跳转到中文](#中文)
+[▲ Back to top / 返回顶部](#top) | [跳转到中文](#中文)
 
 </div>
