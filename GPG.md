@@ -60,7 +60,7 @@ gpg --verify v2rayN-windows-64.zip.sig v2rayN-windows-64.zip
 
 ---
 
-### 安装
+### 安装 GPG
 
 #### 先决条件
 
@@ -244,7 +244,7 @@ gpg --verify v2rayN-windows-64.zip.sig v2rayN-windows-64.zip
 
 ---
 
-### Installation
+### Install GPG
 
 #### Prerequisites
 
